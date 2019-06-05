@@ -1,4 +1,4 @@
-# "Life"
+# "Life" :)
 
 The game "Life" (eng. Conway's Game of Life) is a cellular automaton invented by the English mathematician John Conway in 1970.
 
